@@ -1,0 +1,6 @@
+shiny>=1.2
+numpy
+pandas
+matplotlib
+scikit-learn==1.9.0
+xgboost==3.4.0
